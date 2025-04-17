@@ -1,21 +1,6 @@
  <!--Header-->
    ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FDC830,100:F37335&height=200&section=header&text=Developing%20World%20of%20Gunju&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&fontAlign=50&fontFamily=Nanum+Pen+Script)
 
-<!--
-**NirvanaCitrus/NirvanaCitrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <!--Body-->
  
    ## 👀 About Me
@@ -58,9 +43,9 @@ Here are some ideas to get you started:
    <br/>
    
  ## 📡 Follow Me  
-    <a href="https://velog.io/@gichael711/posts">
-     <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
-   </a>  
+   <a href="https://velog.io/@gichael711/posts">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
+  </a>  
    <a href="https://www.instagram.com/5unxzoo_">
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
    </a>  
@@ -69,3 +54,18 @@ Here are some ideas to get you started:
    </a>
    <br/>
    <br/>
+
+<!--
+**NirvanaCitrus/NirvanaCitrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
